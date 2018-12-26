@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\进销存4\IDAL\bin\Debug\IDAL.dll
+C:\Users\Administrator\Desktop\进销存4\IDAL\bin\Debug\IDAL.pdb
+C:\Users\Administrator\Desktop\进销存4\IDAL\bin\Debug\Models.dll
+C:\Users\Administrator\Desktop\进销存4\IDAL\bin\Debug\Models.pdb
+C:\Users\Administrator\Desktop\进销存4\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\进销存4\IDAL\obj\Debug\IDAL.dll
+C:\Users\Administrator\Desktop\进销存4\IDAL\obj\Debug\IDAL.pdb

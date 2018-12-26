@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\进销存4\DALFactory\bin\Debug\DALFactory.dll
+C:\Users\Administrator\Desktop\进销存4\DALFactory\bin\Debug\DALFactory.pdb
+C:\Users\Administrator\Desktop\进销存4\DALFactory\obj\Debug\DALFactory.dll
+C:\Users\Administrator\Desktop\进销存4\DALFactory\obj\Debug\DALFactory.pdb
+C:\Users\Administrator\Desktop\进销存4\DALFactory\obj\Debug\DALFactory.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\进销存4\DALFactory\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\进销存4\DALFactory\bin\Debug\IDAL.dll
+C:\Users\Administrator\Desktop\进销存4\DALFactory\bin\Debug\Models.dll
+C:\Users\Administrator\Desktop\进销存4\DALFactory\bin\Debug\IBatisNet.DataMapper.dll
+C:\Users\Administrator\Desktop\进销存4\DALFactory\bin\Debug\IBatisNet.Common.dll
+C:\Users\Administrator\Desktop\进销存4\DALFactory\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\进销存4\DALFactory\bin\Debug\IDAL.pdb
+C:\Users\Administrator\Desktop\进销存4\DALFactory\bin\Debug\Models.pdb

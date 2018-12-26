@@ -1,0 +1,15 @@
+E:\projects\进销存1\BLL\bin\Debug\BLL.dll
+E:\projects\进销存1\BLL\bin\Debug\BLL.pdb
+E:\projects\进销存1\BLL\obj\Debug\BLL.dll
+E:\projects\进销存1\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\进销存4\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\进销存4\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\进销存4\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\进销存4\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\进销存4\BLL\bin\Debug\DALFactory.dll
+C:\Users\Administrator\Desktop\进销存4\BLL\bin\Debug\IDAL.dll
+C:\Users\Administrator\Desktop\进销存4\BLL\bin\Debug\Models.dll
+C:\Users\Administrator\Desktop\进销存4\BLL\bin\Debug\DALFactory.pdb
+C:\Users\Administrator\Desktop\进销存4\BLL\bin\Debug\IDAL.pdb
+C:\Users\Administrator\Desktop\进销存4\BLL\bin\Debug\Models.pdb
+C:\Users\Administrator\Desktop\进销存4\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
